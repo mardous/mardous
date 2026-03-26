@@ -52,9 +52,11 @@ I enjoy building practical, user-focused applications and learning through real-
 
 If you find my work useful, consider supporting me:
 
+<div align="center">
 <a href="https://ko-fi.com/christiaam" target="_blank">
-<img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_blue.png" alt="Support me on Ko-fi" style="border: 0px; height: 40px;" />
+<img src="https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_badge_blue.png" alt="Support me on Ko-fi" style="border: 0px; height: 65px;" />
 </a>
+</div>
 
 ---
 
