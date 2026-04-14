@@ -20,7 +20,7 @@ I enjoy building practical, user-focused applications and learning through real-
 <div align="center">
 
 <h3>Core</h3>
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,gradle" />
 
 <h3>Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=ktor,firebase" />
