@@ -7,10 +7,10 @@ I enjoy building practical, user-focused applications and learning through real-
 
 ## 🚀 Projects
 
-* 🎵 **Booming Music**
+* 🎵 **Booming Music**:
   Open-source music player focused on performance, offline features, and a clean user experience.
 
-* ⬇️ **WhatSave**
+* ⬇️ **WhatSave** (Discontinued):
   A simple app that allows you to save WhatsApp statuses in the easiest way.
 
 ---
